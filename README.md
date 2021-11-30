@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manfiolautaro&label=Profile%20views&color=0e75b6&style=flat" alt="manfiolautaro" /> </p>
 
-- 🔭 I’m currently working on [my first iOS app](https://github.com/manfiolautaro/tiralosdados)
+- 🔭 I’m currently working on [my first iOS app](https://github.com/manfiolautaro/rollthedices)
 
 - 🌱 I’m currently learning **Swift**
 
