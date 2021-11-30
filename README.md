@@ -13,13 +13,12 @@
 
 - 📫 How to reach me **manfiolautaro@gmail.com**
 
-- 📄 Know about my experiences [I recently finished a Coding Bootcamp and I am looking for my first job!]
+- 📄 Know about my experiences [I recently finished a Coding Bootcamp and I am looking for my first job!](I recently finished a Coding Bootcamp and I am looking for my first job!)
 
 - ⚡ Fun fact **I'm not very witty with jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/manfiok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manfiok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
