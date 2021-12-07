@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manfiolautaro&label=Profile%20views&color=0e75b6&style=flat" alt="manfiolautaro" /> </p>
 
-- 🔭 I’m currently working on [my first iOS app](https://github.com/manfiolautaro/rollthedices)
+- 🔭 I’m currently working on [my portfolio](https://github.com/manfiolautaro/rollthedices)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift and improving my skills with React and Node.JS **
 
 - 👨‍💻 All of my projects are available at [https://github.com/manfiolautaro](https://github.com/manfiolautaro)
 
