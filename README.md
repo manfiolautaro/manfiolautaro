@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manfiolautaro&label=Profile%20views&color=0e75b6&style=flat" alt="manfiolautaro" /> </p>
 
@@ -9,13 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manfiolautaro](https://github.com/manfiolautaro)
 
-- 💬 Ask me about **React, Node.JS and JavaScript**
+- 💬 Ask me about **Salesforce, React, Node.JS and JavaScript**
 
 - 📫 How to reach me **manfiolautaro@gmail.com**
 
-- 📄 Know about my experiences [I recently finished a Coding Bootcamp and I am looking for my first job!](I recently finished a Coding Bootcamp and I am looking for my first job!)
-
-- ⚡ Fun fact **I'm not very witty with jokes**
+- 📄 Know about my experiences [I'm looking for a new job!]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
