@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *my portfolio and personal projects*
 
-- 💬 Ask me about *APEX,Lightning Web Components,JavaScript, NodeJS, React, HTML, CSS*
+- 💬 Ask me about *APEX, Lightning Web Components, JavaScript, NodeJS, React, HTML, CSS*
 
 - 📫 How to reach me *manfiolautaro@gmail.com*
 
